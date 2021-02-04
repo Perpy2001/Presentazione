@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828365845412",
+    "firebase_url": "https://socialbus-b3702.firebaseio.com",
+    "project_id": "socialbus-b3702",
+    "storage_bucket": "socialbus-b3702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828365845412:android:cf52196418233c84f74731",
+        "android_client_info": {
+          "package_name": "com.example.prova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828365845412-uao4iuo21c8abnsm66u4n4h7i99aa265.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADqBmeQD5DuEgRgWSuydnLhOAePxPUjOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828365845412-uao4iuo21c8abnsm66u4n4h7i99aa265.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
