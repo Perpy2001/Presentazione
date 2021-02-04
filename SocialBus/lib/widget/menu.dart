@@ -50,7 +50,7 @@ class Menu extends StatelessWidget {
             onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Home()),
+                  MaterialPageRoute(builder: (context) => Home(user: user,)),
                 );
               },
           ),
@@ -63,7 +63,7 @@ class Menu extends StatelessWidget {
             onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Home()),
+                  MaterialPageRoute(builder: (context) => Home(user: user,)),
                 );
               },
           ),
@@ -76,7 +76,7 @@ class Menu extends StatelessWidget {
             onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Home()),
+                  MaterialPageRoute(builder: (context) => Home(user: user,)),
                 );
               },
           ),
@@ -89,7 +89,7 @@ class Menu extends StatelessWidget {
             onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Home()),
+                  MaterialPageRoute(builder: (context) => Home(user: user,)),
                 );
               },
           ),
